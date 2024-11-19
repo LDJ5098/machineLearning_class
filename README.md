@@ -1,1 +1,1 @@
-# machineLearning_class
+# 머신러닝 모델 실습 코드 목록
